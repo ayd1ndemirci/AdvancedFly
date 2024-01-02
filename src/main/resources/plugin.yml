@@ -1,0 +1,7 @@
+name: AdvancedFlyX
+version: 1.0
+main: ayd1ndemirci.advancedfly.Main
+api-version: '1.20'
+commands:
+  fly:
+    description: Fly command.
