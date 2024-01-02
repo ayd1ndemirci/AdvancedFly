@@ -14,7 +14,7 @@ AdvancedFly, oyunculara uçma yetkisi veren bir Bukkit/Spigot eklentisidir.
 - `/fly <oyuncuAdı>`: Op oyuncuların başka bir oyuncuya uçma yetkisi vermesini veya kaldırmasını sağlar.
 
 ## Kurulum
-1. Eklentiyi [buradan](link) indirin.
+1. Eklentiyi [buradan](https://github.com/ayd1ndemirci/AdvancedFly/archive/refs/tags/v0.1.0.zip) indirin.
 2. İndirdiğiniz dosyayı sunucunuzun `plugins` klasörüne yerleştirin.
 3. Sunucunuzu başlatın.
 
